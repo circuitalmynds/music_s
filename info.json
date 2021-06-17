@@ -1,168 +1,414 @@
 {
     "available_space": true,
-    "file_sizes": {
-        "SFDK - Volver (Video Oficial)-hkpEA9zflLA.mp4": 14.546646118164062,
-        "SHIMMY SHAKE - LAS MEJORES ROLAS DE LOS NOVENTAS-0LIjpp39UhA.mp4": 3.7344589233398438,
-        "SKA-P-El Gato Lopez.-y6ucaz3pGbE.mp4": 6.823431015014648,
-        "SKAP-Casposos-K8ACKc4a6PA.mp4": 12.743476867675781,
-        "SRV - Hideaway & Rude Mood (Montreux '82)-vO4XE9aHg-o.mp4": 35.2839412689209,
-        "Satin Doll (Take 7)-WwEfX1v3soc.mp4": 4.8421220779418945,
-        "Saves The Day 'Shoulder To The Wheel' (Official Music Video)-f5eOwgzJmV0.mp4": 15.18371868133545,
-        "Saweetie & GALXARA - Sway With Me (from Birds of Prey - The Album) [Official Music Video]-19pp2jNapL4.mp4": 14.082778930664062,
-        "Scarlett Rose - In My Beautiful Garden (Official Music Video)-Ca6wmYGBy5c.mp4": 14.09508991241455,
-        "Scubidu-pMH5opycO0o.mp4": 6.88560676574707,
-        "Scuttle Buttin'-5r56RRl7-vU.mp4": 3.896580696105957,
-        "Se te Olvida-eVR-yiBwsZc.mp4": 4.101941108703613,
-        "Sean Paul - I'm Still In Love With You (Official Video)-AQ4TW5Z8eu0.mp4": 18.157816886901855,
-        "Sean Paul - Like Glue (Official Video)-0zZ2bifb338.mp4": 22.014286041259766,
-        "Sean Paul ft. Debbie Nova - International Affair [DUTTY ROCK]-AAHTULZJzZ0.mp4": 4.261726379394531,
-        "Sebasti\u00e1n Yatra - No Hay Nadie M\u00e1s-sD9_l3oDOag.mp4": 12.411393165588379,
-        "Selena Gomez - Slow Down (Official)-Z8eXaXoUJRQ.mp4": 14.522087097167969,
-        "Semisonic - Closing Time (Official Music Video)-xGytDsqkQY8.mp4": 18.70744228363037,
-        "Shake, Rattle and Roll - Bill Haley and his Comets-8B7xr_EjbzE.mp4": 4.1614789962768555,
-        "Shakira - Suerte (Whenever, Wherever)-a8Rwz6zBJSE.mp4": 11.936056137084961,
-        "Sham Rock-Tell Me Ma (with lyrics)-So1qiyLaypk.mp4": 4.948297500610352,
-        "Short Of Daybreak-a35XiKPqQI0.mp4": 4.096900939941406,
-        "Si miro a las nubes-SQL4ipGiJjs.mp4": 12.212539672851562,
-        "Silvio Rodriguez - Cancion del elegido-xRE5h8B0F6w.mp4": 4.662797927856445,
-        "Similau \u2192 LP A Swingin' Safari (Bert Kaempfert)\ud83c\udf41-weiMpC9xEJw.mp4": 4.508967399597168,
-        "Sin Ti - Rawayana, Willy Rodr\u00edguez (Cultura Prof\u00e9tica), McKlopedia & La Vida Boh\u00e8me-jRuXTUwOfoQ.mp4": 23.846421241760254,
-        "Siniestro Total - Bailare sobre tu tumba-X8yLE3p9PgQ.mp4": 5.238713264465332,
-        "Sinister Exaggerator-Xvr1YbzPGuw.mp4": 4.416873931884766,
-        "Sistema decadente - Lenguarmada-GFB_aDd6Pew.mp4": 5.8292131423950195,
-        "Ska-P - Como me pongo-zJAiZWCgpN8.mp4": 4.13311767578125,
-        "Ska-P - El Vals Del Obrero-65qjU0gEXX4.mp4": 7.092597961425781,
-        "Ska-P - Espa\u00f1a va Bien-kC9Ott_C44o.mp4": 7.353655815124512,
-        "Ska-P - La Estampida-bDeIXD7wRsQ.mp4": 5.7524213790893555,
-        "Ska-P - Naval Xix\u00f3n-mlpw1I7EVdQ.mp4": 5.215215682983398,
-        "Ska-P - Ni\u00f1o Soldado (Videoclip)-tkKSnkCv_HM.mp4": 19.58512306213379,
-        "Ska-P - Revistas Del Corazon-22RYdnQbAvg.mp4": 4.0712480545043945,
-        "Ska-P - Romero El Madero-gL6ja95oRjM.mp4": 5.2009687423706055,
-        "Slayer - Bloodline (Official Video)-WfKUWvVCwvE.mp4": 16.489971160888672,
-        "Slide Thing (Live at Steamboat 1874, Austin, TX - April 1980)-1032IfN5zq4.mp4": 6.846834182739258,
-        "Slim Harpo - Baby Scratch My Back-tM_VSouYnbE.mp4": 7.589787483215332,
-        "Sniestro Total los esqueletos no tienen pilila-yIsQ8f7F8iQ.mp4": 1.3956832885742188,
-        "Sobra la luz-cjN8Zx1cTvE.mp4": 5.722766876220703,
-        "Soda Stereo - Estoy Azulado (Official Audio).mp4": 9.376487731933594,
-        "Sonic Youth - Kool Thing (Official Music Video)-SDTSUwIZdMk.mp4": 21.392032623291016,
-        "Sonido Rebelde-lcGQuCkCQ04.mp4": 3.1086244583129883,
-        "Sonora   El Huarachazo-KrvsMASVAXY.mp4": 5.036632537841797,
-        "Sound Carrier by Wes Montgomery-TXuKKA_ik5Y.mp4": 12.631184577941895,
-        "Stang's Swang-jMGeqRxzykA.mp4": 5.064732551574707,
-        "Stevie Ray Vaughan & Double Trouble - Change It (Video)-TMY9Wrh1oPA.mp4": 13.261687278747559,
-        "Stevie Ray Vaughan & Double Trouble - Cold Shot (Video)-m2ou-WIxfLY.mp4": 17.26726722717285,
-        "Stevie Ray Vaughan & Double Trouble - Couldn't Stand the Weather (Video)-nO23B5C_Mcw.mp4": 22.85133171081543,
-        "Stevie Ray Vaughan & Double Trouble - Leave My Girl Alone (Live From Austin, TX)-vdxF48KfYNA.mp4": 19.56404685974121,
-        "Stevie Ray Vaughan & Double Trouble - The House Is Rockin'--G84P5K-W1c.mp4": 11.999605178833008,
-        "Stevie Ray Vaughan - Ain't Gone 'N' Give Up On Love - 9_21_1985 - Capitol Theatre (Official)-820u5aQ-HRg.mp4": 29.600418090820312,
-        "Stevie Ray Vaughan - Empty Arms-8s-KJsBmO60.mp4": 5.87835693359375,
-        "Stevie Ray Vaughan - Hug You, Squeeze You (from Live at the El Mocambo)-SR9GOQ4GXvk.mp4": 14.00336742401123,
-        "Stevie Ray Vaughan - Lenny - Unplugged And Jamming (Bootleg) - BEST Version-7RgiI2Re4eA.mp4": 6.494481086730957,
-        "Stevie Ray Vaughan - Life Without You - 9_21_1985 - Capitol Theatre, Passaic, NJ-DQ4REYdCkTw.mp4": 46.534780502319336,
-        "Stevie Ray Vaughan - Look at Little Sister-3woPVQExDsQ.mp4": 15.220812797546387,
-        "Stevie Ray Vaughan - Testify (from Live at the El Mocambo)-Wtij9_fLhKA.mp4": 13.438133239746094,
-        "Stevie Ray Vaughan - Texas Flood (from Live at the El Mocambo)-KC5H9P4F5Uk.mp4": 37.33932971954346,
-        "Stevie Ray Vaughan - Wall of Denial-5kaNqLrAl8Q.mp4": 10.221230506896973,
-        "Stevie Ray Vaughan - Willie The Wimp-yLZI2z19vbQ.mp4": 19.52552604675293,
-        "Stevie Ray Vaughan Collins Shuffle Live In Montreux 1080P-C2_bK_SZ4Lo.mp4": 20.330636978149414,
-        "Stevie Ray Vaughan ~ Lookin' Out the Window-r2MjeXBr5fg.mp4": 14.860954284667969,
-        "Stevie Wonder and Stevie Ray Vaughan - Superstition (1989)-tBEkolNNfJc.mp4": 12.578912734985352,
-        "Stevie's Blues [Guide Track for International Blues Jam] l Tommy Emmanuel-nnZgFMIFqkw.mp4": 15.213584899902344,
-        "Stray Cats - Rebels Rule-p-Hg6dc73RY.mp4": 11.939894676208496,
-        "Suicide & Redemption-wr_pNRdUZpA.mp4": 24.955209732055664,
-        "Super Rail Band (Mali) -Tiramakan (1974)-74DNf12E80g.mp4": 15.197037696838379,
-        "Surf Wax America-hfzkJZSzZxY.mp4": 4.826037406921387,
-        "Surfari's Stomp-Q6d4oDCsC3o.mp4": 2.222256660461426,
-        "Sweet - Fox On The Run (Official Video)-VP2umy6TdEU.mp4": 14.189855575561523,
-        "Symposium of Sickness-eGb_xr8K3aY.mp4": 10.321394920349121,
-        "System Of A Down - B.Y.O.B. (Official Video)-zUzd9KyIDrM.mp4": 22.81673812866211,
-        "System Of A Down - Cigaro (Official Audio)-L4M98z22pgI.mp4": 2.3161277770996094,
-        "System Of A Down - I-E-A-I-A-I-O (Official Audio)-eudOwe3Rz-0.mp4": 2.892550468444824,
-        "System Of A Down - Question! (Official Video)-ENBv2i88g6Y.mp4": 16.908788681030273,
-        "System Of A Down - Violent Pornography (Official Audio)-WWXcpWliHSY.mp4": 3.6956663131713867,
-        "suicide mission-total chaos.wmv-Y3C6q4dcV_A.mp4": 6.004222869873047,
-        "\u00bfSabes \u00a1Phil Lynott Muri\u00f3!-d522AsA68hQ.mp4": 14.215502738952637
-    },
     "size_max": 46.534780502319336,
     "size_mean": 11.899970831694427,
     "size_min": 1.3956832885742188,
     "total_size": 963.8976373672485,
     "video_list": {
-        "SFDK - Volver (Video Oficial)-hkpEA9zflLA.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/SFDK%20-%20Volver%20(Video%20Oficial)-hkpEA9zflLA.mp4?raw=true",
-        "SHIMMY SHAKE - LAS MEJORES ROLAS DE LOS NOVENTAS-0LIjpp39UhA.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/SHIMMY%20SHAKE%20-%20LAS%20MEJORES%20ROLAS%20DE%20LOS%20NOVENTAS-0LIjpp39UhA.mp4?raw=true",
-        "SKA-P-El Gato Lopez.-y6ucaz3pGbE.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/SKA-P-El%20Gato%20Lopez.-y6ucaz3pGbE.mp4?raw=true",
-        "SKAP-Casposos-K8ACKc4a6PA.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/SKAP-Casposos-K8ACKc4a6PA.mp4?raw=true",
-        "SLAYER - You Against You (OFFICIAL MUSIC VIDEO)-2zhi3FmTUFg.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/SLAYER%20-%20You%20Against%20You%20(OFFICIAL%20MUSIC%20VIDEO)-2zhi3FmTUFg.mp4?raw=true",
-        "Satin Doll (Take 7)-WwEfX1v3soc.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Satin%20Doll%20(Take%207)-WwEfX1v3soc.mp4?raw=true",
-        "Saves The Day 'Shoulder To The Wheel' (Official Music Video)-f5eOwgzJmV0.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Saves%20The%20Day%20'Shoulder%20To%20The%20Wheel'%20(Official%20Music%20Video)-f5eOwgzJmV0.mp4?raw=true",
-        "Scubidu-pMH5opycO0o.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Scubidu-pMH5opycO0o.mp4?raw=true",
-        "Scuttle Buttin'-5r56RRl7-vU.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Scuttle%20Buttin'-5r56RRl7-vU.mp4?raw=true",
-        "Se te Olvida-eVR-yiBwsZc.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Se%20te%20Olvida-eVR-yiBwsZc.mp4?raw=true",
-        "Sean Paul - I'm Still In Love With You (Official Video)-AQ4TW5Z8eu0.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Sean%20Paul%20-%20I'm%20Still%20In%20Love%20With%20You%20(Official%20Video)-AQ4TW5Z8eu0.mp4?raw=true",
-        "Sean Paul - Like Glue (Official Video)-0zZ2bifb338.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Sean%20Paul%20-%20Like%20Glue%20(Official%20Video)-0zZ2bifb338.mp4?raw=true",
-        "Sean Paul ft. Debbie Nova - International Affair [DUTTY ROCK]-AAHTULZJzZ0.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Sean%20Paul%20ft.%20Debbie%20Nova%20-%20International%20Affair%20%5BDUTTY%20ROCK%5D-AAHTULZJzZ0.mp4?raw=true",
-        "Sebasti\u00e1n Yatra - No Hay Nadie M\u00e1s-sD9_l3oDOag.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Sebasti%C3%A1n%20Yatra%20-%20No%20Hay%20Nadie%20M%C3%A1s-sD9_l3oDOag.mp4?raw=true",
-        "Semisonic - Closing Time (Official Music Video)-xGytDsqkQY8.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Semisonic%20-%20Closing%20Time%20(Official%20Music%20Video)-xGytDsqkQY8.mp4?raw=true",
-        "Shake, Rattle and Roll - Bill Haley and his Comets-8B7xr_EjbzE.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Shake%2C%20Rattle%20and%20Roll%20-%20Bill%20Haley%20and%20his%20Comets-8B7xr_EjbzE.mp4?raw=true",
-        "Shakira - Suerte (Whenever, Wherever)-a8Rwz6zBJSE.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Shakira%20-%20Suerte%20(Whenever%2C%20Wherever)-a8Rwz6zBJSE.mp4?raw=true",
-        "Sham Rock-Tell Me Ma (with lyrics)-So1qiyLaypk.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Sham%20Rock-Tell%20Me%20Ma%20(with%20lyrics)-So1qiyLaypk.mp4?raw=true",
-        "Short Of Daybreak-a35XiKPqQI0.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Short%20Of%20Daybreak-a35XiKPqQI0.mp4?raw=true",
-        "Si miro a las nubes-SQL4ipGiJjs.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Si%20miro%20a%20las%20nubes-SQL4ipGiJjs.mp4?raw=true",
-        "Silvio Rodriguez - Cancion del elegido-xRE5h8B0F6w.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Silvio%20Rodriguez%20-%20Cancion%20del%20elegido-xRE5h8B0F6w.mp4?raw=true",
-        "Similau \u2192 LP A Swingin' Safari (Bert Kaempfert)\ud83c\udf41-weiMpC9xEJw.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Similau%20%E2%86%92%20LP%20A%20Swingin'%20Safari%20(Bert%20Kaempfert)%F0%9F%8D%81-weiMpC9xEJw.mp4?raw=true",
-        "Sin Ti - Rawayana, Willy Rodr\u00edguez (Cultura Prof\u00e9tica), McKlopedia & La Vida Boh\u00e8me-jRuXTUwOfoQ.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Sin%20Ti%20-%20Rawayana%2C%20Willy%20Rodr%C3%ADguez%20(Cultura%20Prof%C3%A9tica)%2C%20McKlopedia%20%26%20La%20Vida%20Boh%C3%A8me-jRuXTUwOfoQ.mp4?raw=true",
-        "Siniestro Total - Bailare sobre tu tumba-X8yLE3p9PgQ.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Siniestro%20Total%20-%20Bailare%20sobre%20tu%20tumba-X8yLE3p9PgQ.mp4?raw=true",
-        "Sinister Exaggerator-Xvr1YbzPGuw.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Sinister%20Exaggerator-Xvr1YbzPGuw.mp4?raw=true",
-        "Sistema decadente - Lenguarmada-GFB_aDd6Pew.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Sistema%20decadente%20-%20Lenguarmada-GFB_aDd6Pew.mp4?raw=true",
-        "Ska-P - Como me pongo-zJAiZWCgpN8.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Ska-P%20-%20Como%20me%20pongo-zJAiZWCgpN8.mp4?raw=true",
-        "Ska-P - El Vals Del Obrero-65qjU0gEXX4.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Ska-P%20-%20El%20Vals%20Del%20Obrero-65qjU0gEXX4.mp4?raw=true",
-        "Ska-P - Espa\u00f1a va Bien-kC9Ott_C44o.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Ska-P%20-%20Espa%C3%B1a%20va%20Bien-kC9Ott_C44o.mp4?raw=true",
-        "Ska-P - La Estampida-bDeIXD7wRsQ.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Ska-P%20-%20La%20Estampida-bDeIXD7wRsQ.mp4?raw=true",
-        "Ska-P - Naval Xix\u00f3n-mlpw1I7EVdQ.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Ska-P%20-%20Naval%20Xix%C3%B3n-mlpw1I7EVdQ.mp4?raw=true",
-        "Ska-P - Ni\u00f1o Soldado (Videoclip)-tkKSnkCv_HM.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Ska-P%20-%20Ni%C3%B1o%20Soldado%20(Videoclip)-tkKSnkCv_HM.mp4?raw=true",
-        "Ska-P - Revistas Del Corazon-22RYdnQbAvg.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Ska-P%20-%20Revistas%20Del%20Corazon-22RYdnQbAvg.mp4?raw=true",
-        "Ska-P - Romero El Madero-gL6ja95oRjM.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Ska-P%20-%20Romero%20El%20Madero-gL6ja95oRjM.mp4?raw=true",
-        "Slayer - Bloodline (Official Video)-WfKUWvVCwvE.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Slayer%20-%20Bloodline%20(Official%20Video)-WfKUWvVCwvE.mp4?raw=true",
-        "Slide Thing (Live at Steamboat 1874, Austin, TX - April 1980)-1032IfN5zq4.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Slide%20Thing%20(Live%20at%20Steamboat%201874%2C%20Austin%2C%20TX%20-%20April%201980)-1032IfN5zq4.mp4?raw=true",
-        "Slim Harpo - Baby Scratch My Back-tM_VSouYnbE.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Slim%20Harpo%20-%20Baby%20Scratch%20My%20Back-tM_VSouYnbE.mp4?raw=true",
-        "Sniestro Total los esqueletos no tienen pilila-yIsQ8f7F8iQ.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Sniestro%20Total%20los%20esqueletos%20no%20tienen%20pilila-yIsQ8f7F8iQ.mp4?raw=true",
-        "Sobra la luz-cjN8Zx1cTvE.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Sobra%20la%20luz-cjN8Zx1cTvE.mp4?raw=true",
-        "Soda Stereo - Estoy Azulado (Official Audio).mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Soda%20Stereo%20-%20Estoy%20Azulado%20(Official%20Audio).mp4?raw=true",
-        "Sonic Youth - Kool Thing (Official Music Video)-SDTSUwIZdMk.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Sonic%20Youth%20-%20Kool%20Thing%20(Official%20Music%20Video)-SDTSUwIZdMk.mp4?raw=true",
-        "Sonido Rebelde-lcGQuCkCQ04.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Sonido%20Rebelde-lcGQuCkCQ04.mp4?raw=true",
-        "Sound Carrier by Wes Montgomery-TXuKKA_ik5Y.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Sound%20Carrier%20by%20Wes%20Montgomery-TXuKKA_ik5Y.mp4?raw=true",
-        "Stang's Swang-jMGeqRxzykA.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Stang's%20Swang-jMGeqRxzykA.mp4?raw=true",
-        "Stevie Ray Vaughan & Double Trouble - Change It (Video)-TMY9Wrh1oPA.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Stevie%20Ray%20Vaughan%20%26%20Double%20Trouble%20-%20Change%20It%20(Video)-TMY9Wrh1oPA.mp4?raw=true",
-        "Stevie Ray Vaughan & Double Trouble - Cold Shot (Video)-m2ou-WIxfLY.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Stevie%20Ray%20Vaughan%20%26%20Double%20Trouble%20-%20Cold%20Shot%20(Video)-m2ou-WIxfLY.mp4?raw=true",
-        "Stevie Ray Vaughan & Double Trouble - Couldn't Stand the Weather (Video)-nO23B5C_Mcw.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Stevie%20Ray%20Vaughan%20%26%20Double%20Trouble%20-%20Couldn't%20Stand%20the%20Weather%20(Video)-nO23B5C_Mcw.mp4?raw=true",
-        "Stevie Ray Vaughan & Double Trouble - Leave My Girl Alone (Live From Austin, TX)-vdxF48KfYNA.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Stevie%20Ray%20Vaughan%20%26%20Double%20Trouble%20-%20Leave%20My%20Girl%20Alone%20(Live%20From%20Austin%2C%20TX)-vdxF48KfYNA.mp4?raw=true",
-        "Stevie Ray Vaughan & Double Trouble - The House Is Rockin'--G84P5K-W1c.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Stevie%20Ray%20Vaughan%20%26%20Double%20Trouble%20-%20The%20House%20Is%20Rockin'--G84P5K-W1c.mp4?raw=true",
-        "Stevie Ray Vaughan - Ain't Gone 'N' Give Up On Love - 9_21_1985 - Capitol Theatre (Official)-820u5aQ-HRg.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Stevie%20Ray%20Vaughan%20-%20Ain't%20Gone%20'N'%20Give%20Up%20On%20Love%20-%209_21_1985%20-%20Capitol%20Theatre%20(Official)-820u5aQ-HRg.mp4?raw=true",
-        "Stevie Ray Vaughan - Empty Arms-8s-KJsBmO60.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Stevie%20Ray%20Vaughan%20-%20Empty%20Arms-8s-KJsBmO60.mp4?raw=true",
-        "Stevie Ray Vaughan - Hug You, Squeeze You (from Live at the El Mocambo)-SR9GOQ4GXvk.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Stevie%20Ray%20Vaughan%20-%20Hug%20You%2C%20Squeeze%20You%20(from%20Live%20at%20the%20El%20Mocambo)-SR9GOQ4GXvk.mp4?raw=true",
-        "Stevie Ray Vaughan - Lenny - Unplugged And Jamming (Bootleg) - BEST Version-7RgiI2Re4eA.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Stevie%20Ray%20Vaughan%20-%20Lenny%20-%20Unplugged%20And%20Jamming%20(Bootleg)%20-%20BEST%20Version-7RgiI2Re4eA.mp4?raw=true",
-        "Stevie Ray Vaughan - Life Without You - 9_21_1985 - Capitol Theatre, Passaic, NJ-DQ4REYdCkTw.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Stevie%20Ray%20Vaughan%20-%20Life%20Without%20You%20-%209_21_1985%20-%20Capitol%20Theatre%2C%20Passaic%2C%20NJ-DQ4REYdCkTw.mp4?raw=true",
-        "Stevie Ray Vaughan - Look at Little Sister-3woPVQExDsQ.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Stevie%20Ray%20Vaughan%20-%20Look%20at%20Little%20Sister-3woPVQExDsQ.mp4?raw=true",
-        "Stevie Ray Vaughan - Testify (from Live at the El Mocambo)-Wtij9_fLhKA.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Stevie%20Ray%20Vaughan%20-%20Testify%20(from%20Live%20at%20the%20El%20Mocambo)-Wtij9_fLhKA.mp4?raw=true",
-        "Stevie Ray Vaughan - Wall of Denial-5kaNqLrAl8Q.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Stevie%20Ray%20Vaughan%20-%20Wall%20of%20Denial-5kaNqLrAl8Q.mp4?raw=true",
-        "Stevie Ray Vaughan - Willie The Wimp-yLZI2z19vbQ.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Stevie%20Ray%20Vaughan%20-%20Willie%20The%20Wimp-yLZI2z19vbQ.mp4?raw=true",
-        "Stevie Ray Vaughan Collins Shuffle Live In Montreux 1080P-C2_bK_SZ4Lo.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Stevie%20Ray%20Vaughan%20Collins%20Shuffle%20Live%20In%20Montreux%201080P-C2_bK_SZ4Lo.mp4?raw=true",
-        "Stevie Ray Vaughan ~ Lookin' Out the Window-r2MjeXBr5fg.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Stevie%20Ray%20Vaughan%20%7E%20Lookin'%20Out%20the%20Window-r2MjeXBr5fg.mp4?raw=true",
-        "Stevie Wonder and Stevie Ray Vaughan - Superstition (1989)-tBEkolNNfJc.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Stevie%20Wonder%20and%20Stevie%20Ray%20Vaughan%20-%20Superstition%20(1989)-tBEkolNNfJc.mp4?raw=true",
-        "Stevie's Blues [Guide Track for International Blues Jam] l Tommy Emmanuel-nnZgFMIFqkw.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Stevie's%20Blues%20%5BGuide%20Track%20for%20International%20Blues%20Jam%5D%20l%20Tommy%20Emmanuel-nnZgFMIFqkw.mp4?raw=true",
-        "Stray Cats - Rebels Rule-p-Hg6dc73RY.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Stray%20Cats%20-%20Rebels%20Rule-p-Hg6dc73RY.mp4?raw=true",
-        "Suicide & Redemption-wr_pNRdUZpA.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Suicide%20%26%20Redemption-wr_pNRdUZpA.mp4?raw=true",
-        "Super Rail Band (Mali) -Tiramakan (1974)-74DNf12E80g.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Super%20Rail%20Band%20(Mali)%20-Tiramakan%20(1974)-74DNf12E80g.mp4?raw=true",
-        "Surf Wax America-hfzkJZSzZxY.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Surf%20Wax%20America-hfzkJZSzZxY.mp4?raw=true",
-        "Surfari's Stomp-Q6d4oDCsC3o.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Surfari's%20Stomp-Q6d4oDCsC3o.mp4?raw=true",
-        "Sweet - Fox On The Run (Official Video)-VP2umy6TdEU.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Sweet%20-%20Fox%20On%20The%20Run%20(Official%20Video)-VP2umy6TdEU.mp4?raw=true",
-        "Symposium of Sickness-eGb_xr8K3aY.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/Symposium%20of%20Sickness-eGb_xr8K3aY.mp4?raw=true",
-        "System Of A Down - B.Y.O.B. (Official Video)-zUzd9KyIDrM.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/System%20Of%20A%20Down%20-%20B.Y.O.B.%20(Official%20Video)-zUzd9KyIDrM.mp4?raw=true",
-        "System Of A Down - Cigaro (Official Audio)-L4M98z22pgI.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/System%20Of%20A%20Down%20-%20Cigaro%20(Official%20Audio)-L4M98z22pgI.mp4?raw=true",
-        "System Of A Down - I-E-A-I-A-I-O (Official Audio)-eudOwe3Rz-0.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/System%20Of%20A%20Down%20-%20I-E-A-I-A-I-O%20(Official%20Audio)-eudOwe3Rz-0.mp4?raw=true",
-        "System Of A Down - Question! (Official Video)-ENBv2i88g6Y.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/System%20Of%20A%20Down%20-%20Question!%20(Official%20Video)-ENBv2i88g6Y.mp4?raw=true",
-        "System Of A Down - Violent Pornography (Official Audio)-WWXcpWliHSY.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/System%20Of%20A%20Down%20-%20Violent%20Pornography%20(Official%20Audio)-WWXcpWliHSY.mp4?raw=true",
-        "suicide mission-total chaos.wmv-Y3C6q4dcV_A.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/suicide%20mission-total%20chaos.wmv-Y3C6q4dcV_A.mp4?raw=true",
-        "\u00bfSabes \u00a1Phil Lynott Muri\u00f3!-d522AsA68hQ.mp4": "https://github.com/circuitalmynds/music_s/blob/main/videos/%C2%BFSabes%20%C2%A1Phil%20Lynott%20Muri%C3%B3!-d522AsA68hQ.mp4?raw=true"
+        "SFDK - Volver (Video Oficial)-hkpEA9zflLA.mp4": {
+            "image": "https://i.ytimg.com/vi/hkpEA9zflLA/hqdefault.jpg",
+            "size": 14.546646118164062,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/SFDK%20-%20Volver%20(Video%20Oficial)-hkpEA9zflLA.mp4?raw=true"
+        },
+        "SHIMMY SHAKE - LAS MEJORES ROLAS DE LOS NOVENTAS-0LIjpp39UhA.mp4": {
+            "image": "https://i.ytimg.com/vi/0LIjpp39UhA/hqdefault.jpg",
+            "size": 3.7344589233398438,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/SHIMMY%20SHAKE%20-%20LAS%20MEJORES%20ROLAS%20DE%20LOS%20NOVENTAS-0LIjpp39UhA.mp4?raw=true"
+        },
+        "SKA-P-El Gato Lopez.-y6ucaz3pGbE.mp4": {
+            "image": "https://i.ytimg.com/vi/y6ucaz3pGbE/hqdefault.jpg",
+            "size": 6.823431015014648,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/SKA-P-El%20Gato%20Lopez.-y6ucaz3pGbE.mp4?raw=true"
+        },
+        "SKAP-Casposos-K8ACKc4a6PA.mp4": {
+            "image": "https://i.ytimg.com/vi/K8ACKc4a6PA/hqdefault.jpg",
+            "size": 12.743476867675781,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/SKAP-Casposos-K8ACKc4a6PA.mp4?raw=true"
+        },
+        "SRV - Hideaway & Rude Mood (Montreux '82)-vO4XE9aHg-o.mp4": {
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "size": 35.2839412689209,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/SRV%20-%20Hideaway%20%26%20Rude%20Mood%20(Montreux%20'82)-vO4XE9aHg-o.mp4?raw=true"
+        },
+        "Satin Doll (Take 7)-WwEfX1v3soc.mp4": {
+            "image": "https://i.ytimg.com/vi/WwEfX1v3soc/hqdefault.jpg",
+            "size": 4.8421220779418945,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Satin%20Doll%20(Take%207)-WwEfX1v3soc.mp4?raw=true"
+        },
+        "Saves The Day 'Shoulder To The Wheel' (Official Music Video)-f5eOwgzJmV0.mp4": {
+            "image": "https://i.ytimg.com/vi/f5eOwgzJmV0/hqdefault.jpg",
+            "size": 15.18371868133545,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Saves%20The%20Day%20'Shoulder%20To%20The%20Wheel'%20(Official%20Music%20Video)-f5eOwgzJmV0.mp4?raw=true"
+        },
+        "Saweetie & GALXARA - Sway With Me (from Birds of Prey - The Album) [Official Music Video]-19pp2jNapL4.mp4": {
+            "image": "https://i.ytimg.com/vi/19pp2jNapL4/hqdefault.jpg",
+            "size": 14.082778930664062,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Saweetie%20%26%20GALXARA%20-%20Sway%20With%20Me%20(from%20Birds%20of%20Prey%20-%20The%20Album)%20%5BOfficial%20Music%20Video%5D-19pp2jNapL4.mp4?raw=true"
+        },
+        "Scarlett Rose - In My Beautiful Garden (Official Music Video)-Ca6wmYGBy5c.mp4": {
+            "image": "https://i.ytimg.com/vi/Ca6wmYGBy5c/hqdefault.jpg",
+            "size": 14.09508991241455,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Scarlett%20Rose%20-%20In%20My%20Beautiful%20Garden%20(Official%20Music%20Video)-Ca6wmYGBy5c.mp4?raw=true"
+        },
+        "Scubidu-pMH5opycO0o.mp4": {
+            "image": "https://i.ytimg.com/vi/pMH5opycO0o/hqdefault.jpg",
+            "size": 6.88560676574707,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Scubidu-pMH5opycO0o.mp4?raw=true"
+        },
+        "Scuttle Buttin'-5r56RRl7-vU.mp4": {
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "size": 3.896580696105957,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Scuttle%20Buttin'-5r56RRl7-vU.mp4?raw=true"
+        },
+        "Se te Olvida-eVR-yiBwsZc.mp4": {
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "size": 4.101941108703613,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Se%20te%20Olvida-eVR-yiBwsZc.mp4?raw=true"
+        },
+        "Sean Paul - I'm Still In Love With You (Official Video)-AQ4TW5Z8eu0.mp4": {
+            "image": "https://i.ytimg.com/vi/AQ4TW5Z8eu0/hqdefault.jpg",
+            "size": 18.157816886901855,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Sean%20Paul%20-%20I'm%20Still%20In%20Love%20With%20You%20(Official%20Video)-AQ4TW5Z8eu0.mp4?raw=true"
+        },
+        "Sean Paul - Like Glue (Official Video)-0zZ2bifb338.mp4": {
+            "image": "https://i.ytimg.com/vi/0zZ2bifb338/hqdefault.jpg",
+            "size": 22.014286041259766,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Sean%20Paul%20-%20Like%20Glue%20(Official%20Video)-0zZ2bifb338.mp4?raw=true"
+        },
+        "Sean Paul ft. Debbie Nova - International Affair [DUTTY ROCK]-AAHTULZJzZ0.mp4": {
+            "image": "https://i.ytimg.com/vi/AAHTULZJzZ0/hqdefault.jpg",
+            "size": 4.261726379394531,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Sean%20Paul%20ft.%20Debbie%20Nova%20-%20International%20Affair%20%5BDUTTY%20ROCK%5D-AAHTULZJzZ0.mp4?raw=true"
+        },
+        "Sebasti\u00e1n Yatra - No Hay Nadie M\u00e1s-sD9_l3oDOag.mp4": {
+            "image": "https://i.ytimg.com/vi/sD9_l3oDOag/hqdefault.jpg",
+            "size": 12.411393165588379,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Sebasti%C3%A1n%20Yatra%20-%20No%20Hay%20Nadie%20M%C3%A1s-sD9_l3oDOag.mp4?raw=true"
+        },
+        "Selena Gomez - Slow Down (Official)-Z8eXaXoUJRQ.mp4": {
+            "image": "https://i.ytimg.com/vi/Z8eXaXoUJRQ/hqdefault.jpg",
+            "size": 14.522087097167969,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Selena%20Gomez%20-%20Slow%20Down%20(Official)-Z8eXaXoUJRQ.mp4?raw=true"
+        },
+        "Semisonic - Closing Time (Official Music Video)-xGytDsqkQY8.mp4": {
+            "image": "https://i.ytimg.com/vi/xGytDsqkQY8/hqdefault.jpg",
+            "size": 18.70744228363037,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Semisonic%20-%20Closing%20Time%20(Official%20Music%20Video)-xGytDsqkQY8.mp4?raw=true"
+        },
+        "Shake, Rattle and Roll - Bill Haley and his Comets-8B7xr_EjbzE.mp4": {
+            "image": "https://i.ytimg.com/vi/8B7xr_EjbzE/hqdefault.jpg",
+            "size": 4.1614789962768555,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Shake%2C%20Rattle%20and%20Roll%20-%20Bill%20Haley%20and%20his%20Comets-8B7xr_EjbzE.mp4?raw=true"
+        },
+        "Shakira - Suerte (Whenever, Wherever)-a8Rwz6zBJSE.mp4": {
+            "image": "https://i.ytimg.com/vi/a8Rwz6zBJSE/hqdefault.jpg",
+            "size": 11.936056137084961,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Shakira%20-%20Suerte%20(Whenever%2C%20Wherever)-a8Rwz6zBJSE.mp4?raw=true"
+        },
+        "Sham Rock-Tell Me Ma (with lyrics)-So1qiyLaypk.mp4": {
+            "image": "https://i.ytimg.com/vi/So1qiyLaypk/hqdefault.jpg",
+            "size": 4.948297500610352,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Sham%20Rock-Tell%20Me%20Ma%20(with%20lyrics)-So1qiyLaypk.mp4?raw=true"
+        },
+        "Short Of Daybreak-a35XiKPqQI0.mp4": {
+            "image": "https://i.ytimg.com/vi/a35XiKPqQI0/hqdefault.jpg",
+            "size": 4.096900939941406,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Short%20Of%20Daybreak-a35XiKPqQI0.mp4?raw=true"
+        },
+        "Si miro a las nubes-SQL4ipGiJjs.mp4": {
+            "image": "https://i.ytimg.com/vi/SQL4ipGiJjs/hqdefault.jpg",
+            "size": 12.212539672851562,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Si%20miro%20a%20las%20nubes-SQL4ipGiJjs.mp4?raw=true"
+        },
+        "Silvio Rodriguez - Cancion del elegido-xRE5h8B0F6w.mp4": {
+            "image": "https://i.ytimg.com/vi/xRE5h8B0F6w/hqdefault.jpg",
+            "size": 4.662797927856445,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Silvio%20Rodriguez%20-%20Cancion%20del%20elegido-xRE5h8B0F6w.mp4?raw=true"
+        },
+        "Similau \u2192 LP A Swingin' Safari (Bert Kaempfert)\ud83c\udf41-weiMpC9xEJw.mp4": {
+            "image": "https://i.ytimg.com/vi/weiMpC9xEJw/hqdefault.jpg",
+            "size": 4.508967399597168,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Similau%20%E2%86%92%20LP%20A%20Swingin'%20Safari%20(Bert%20Kaempfert)%F0%9F%8D%81-weiMpC9xEJw.mp4?raw=true"
+        },
+        "Sin Ti - Rawayana, Willy Rodr\u00edguez (Cultura Prof\u00e9tica), McKlopedia & La Vida Boh\u00e8me-jRuXTUwOfoQ.mp4": {
+            "image": "https://i.ytimg.com/vi/jRuXTUwOfoQ/hqdefault.jpg",
+            "size": 23.846421241760254,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Sin%20Ti%20-%20Rawayana%2C%20Willy%20Rodr%C3%ADguez%20(Cultura%20Prof%C3%A9tica)%2C%20McKlopedia%20%26%20La%20Vida%20Boh%C3%A8me-jRuXTUwOfoQ.mp4?raw=true"
+        },
+        "Siniestro Total - Bailare sobre tu tumba-X8yLE3p9PgQ.mp4": {
+            "image": "https://i.ytimg.com/vi/X8yLE3p9PgQ/hqdefault.jpg",
+            "size": 5.238713264465332,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Siniestro%20Total%20-%20Bailare%20sobre%20tu%20tumba-X8yLE3p9PgQ.mp4?raw=true"
+        },
+        "Sinister Exaggerator-Xvr1YbzPGuw.mp4": {
+            "image": "https://i.ytimg.com/vi/Xvr1YbzPGuw/hqdefault.jpg",
+            "size": 4.416873931884766,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Sinister%20Exaggerator-Xvr1YbzPGuw.mp4?raw=true"
+        },
+        "Sistema decadente - Lenguarmada-GFB_aDd6Pew.mp4": {
+            "image": "https://i.ytimg.com/vi/GFB_aDd6Pew/hqdefault.jpg",
+            "size": 5.8292131423950195,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Sistema%20decadente%20-%20Lenguarmada-GFB_aDd6Pew.mp4?raw=true"
+        },
+        "Ska-P - Como me pongo-zJAiZWCgpN8.mp4": {
+            "image": "https://i.ytimg.com/vi/zJAiZWCgpN8/hqdefault.jpg",
+            "size": 4.13311767578125,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Ska-P%20-%20Como%20me%20pongo-zJAiZWCgpN8.mp4?raw=true"
+        },
+        "Ska-P - El Vals Del Obrero-65qjU0gEXX4.mp4": {
+            "image": "https://i.ytimg.com/vi/65qjU0gEXX4/hqdefault.jpg",
+            "size": 7.092597961425781,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Ska-P%20-%20El%20Vals%20Del%20Obrero-65qjU0gEXX4.mp4?raw=true"
+        },
+        "Ska-P - Espa\u00f1a va Bien-kC9Ott_C44o.mp4": {
+            "image": "https://i.ytimg.com/vi/kC9Ott_C44o/hqdefault.jpg",
+            "size": 7.353655815124512,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Ska-P%20-%20Espa%C3%B1a%20va%20Bien-kC9Ott_C44o.mp4?raw=true"
+        },
+        "Ska-P - La Estampida-bDeIXD7wRsQ.mp4": {
+            "image": "https://i.ytimg.com/vi/bDeIXD7wRsQ/hqdefault.jpg",
+            "size": 5.7524213790893555,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Ska-P%20-%20La%20Estampida-bDeIXD7wRsQ.mp4?raw=true"
+        },
+        "Ska-P - Naval Xix\u00f3n-mlpw1I7EVdQ.mp4": {
+            "image": "https://i.ytimg.com/vi/mlpw1I7EVdQ/hqdefault.jpg",
+            "size": 5.215215682983398,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Ska-P%20-%20Naval%20Xix%C3%B3n-mlpw1I7EVdQ.mp4?raw=true"
+        },
+        "Ska-P - Ni\u00f1o Soldado (Videoclip)-tkKSnkCv_HM.mp4": {
+            "image": "https://i.ytimg.com/vi/tkKSnkCv_HM/hqdefault.jpg",
+            "size": 19.58512306213379,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Ska-P%20-%20Ni%C3%B1o%20Soldado%20(Videoclip)-tkKSnkCv_HM.mp4?raw=true"
+        },
+        "Ska-P - Revistas Del Corazon-22RYdnQbAvg.mp4": {
+            "image": "https://i.ytimg.com/vi/22RYdnQbAvg/hqdefault.jpg",
+            "size": 4.0712480545043945,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Ska-P%20-%20Revistas%20Del%20Corazon-22RYdnQbAvg.mp4?raw=true"
+        },
+        "Ska-P - Romero El Madero-gL6ja95oRjM.mp4": {
+            "image": "https://i.ytimg.com/vi/gL6ja95oRjM/hqdefault.jpg",
+            "size": 5.2009687423706055,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Ska-P%20-%20Romero%20El%20Madero-gL6ja95oRjM.mp4?raw=true"
+        },
+        "Slayer - Bloodline (Official Video)-WfKUWvVCwvE.mp4": {
+            "image": "https://i.ytimg.com/vi/WfKUWvVCwvE/hqdefault.jpg",
+            "size": 16.489971160888672,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Slayer%20-%20Bloodline%20(Official%20Video)-WfKUWvVCwvE.mp4?raw=true"
+        },
+        "Slide Thing (Live at Steamboat 1874, Austin, TX - April 1980)-1032IfN5zq4.mp4": {
+            "image": "https://i.ytimg.com/vi/1032IfN5zq4/hqdefault.jpg",
+            "size": 6.846834182739258,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Slide%20Thing%20(Live%20at%20Steamboat%201874%2C%20Austin%2C%20TX%20-%20April%201980)-1032IfN5zq4.mp4?raw=true"
+        },
+        "Slim Harpo - Baby Scratch My Back-tM_VSouYnbE.mp4": {
+            "image": "https://i.ytimg.com/vi/tM_VSouYnbE/hqdefault.jpg",
+            "size": 7.589787483215332,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Slim%20Harpo%20-%20Baby%20Scratch%20My%20Back-tM_VSouYnbE.mp4?raw=true"
+        },
+        "Sniestro Total los esqueletos no tienen pilila-yIsQ8f7F8iQ.mp4": {
+            "image": "https://i.ytimg.com/vi/yIsQ8f7F8iQ/hqdefault.jpg",
+            "size": 1.3956832885742188,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Sniestro%20Total%20los%20esqueletos%20no%20tienen%20pilila-yIsQ8f7F8iQ.mp4?raw=true"
+        },
+        "Sobra la luz-cjN8Zx1cTvE.mp4": {
+            "image": "https://i.ytimg.com/vi/cjN8Zx1cTvE/hqdefault.jpg",
+            "size": 5.722766876220703,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Sobra%20la%20luz-cjN8Zx1cTvE.mp4?raw=true"
+        },
+        "Soda Stereo - Estoy Azulado (Official Audio).mp4": {
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "size": 9.376487731933594,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Soda%20Stereo%20-%20Estoy%20Azulado%20(Official%20Audio).mp4?raw=true"
+        },
+        "Sonic Youth - Kool Thing (Official Music Video)-SDTSUwIZdMk.mp4": {
+            "image": "https://i.ytimg.com/vi/SDTSUwIZdMk/hqdefault.jpg",
+            "size": 21.392032623291016,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Sonic%20Youth%20-%20Kool%20Thing%20(Official%20Music%20Video)-SDTSUwIZdMk.mp4?raw=true"
+        },
+        "Sonido Rebelde-lcGQuCkCQ04.mp4": {
+            "image": "https://i.ytimg.com/vi/lcGQuCkCQ04/hqdefault.jpg",
+            "size": 3.1086244583129883,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Sonido%20Rebelde-lcGQuCkCQ04.mp4?raw=true"
+        },
+        "Sonora   El Huarachazo-KrvsMASVAXY.mp4": {
+            "image": "https://i.ytimg.com/vi/KrvsMASVAXY/hqdefault.jpg",
+            "size": 5.036632537841797,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Sonora%20%20%20El%20Huarachazo-KrvsMASVAXY.mp4?raw=true"
+        },
+        "Sound Carrier by Wes Montgomery-TXuKKA_ik5Y.mp4": {
+            "image": "https://i.ytimg.com/vi/TXuKKA_ik5Y/hqdefault.jpg",
+            "size": 12.631184577941895,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Sound%20Carrier%20by%20Wes%20Montgomery-TXuKKA_ik5Y.mp4?raw=true"
+        },
+        "Stang's Swang-jMGeqRxzykA.mp4": {
+            "image": "https://i.ytimg.com/vi/jMGeqRxzykA/hqdefault.jpg",
+            "size": 5.064732551574707,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Stang's%20Swang-jMGeqRxzykA.mp4?raw=true"
+        },
+        "Stevie Ray Vaughan & Double Trouble - Change It (Video)-TMY9Wrh1oPA.mp4": {
+            "image": "https://i.ytimg.com/vi/TMY9Wrh1oPA/hqdefault.jpg",
+            "size": 13.261687278747559,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Stevie%20Ray%20Vaughan%20%26%20Double%20Trouble%20-%20Change%20It%20(Video)-TMY9Wrh1oPA.mp4?raw=true"
+        },
+        "Stevie Ray Vaughan & Double Trouble - Cold Shot (Video)-m2ou-WIxfLY.mp4": {
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "size": 17.26726722717285,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Stevie%20Ray%20Vaughan%20%26%20Double%20Trouble%20-%20Cold%20Shot%20(Video)-m2ou-WIxfLY.mp4?raw=true"
+        },
+        "Stevie Ray Vaughan & Double Trouble - Couldn't Stand the Weather (Video)-nO23B5C_Mcw.mp4": {
+            "image": "https://i.ytimg.com/vi/nO23B5C_Mcw/hqdefault.jpg",
+            "size": 22.85133171081543,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Stevie%20Ray%20Vaughan%20%26%20Double%20Trouble%20-%20Couldn't%20Stand%20the%20Weather%20(Video)-nO23B5C_Mcw.mp4?raw=true"
+        },
+        "Stevie Ray Vaughan & Double Trouble - Leave My Girl Alone (Live From Austin, TX)-vdxF48KfYNA.mp4": {
+            "image": "https://i.ytimg.com/vi/vdxF48KfYNA/hqdefault.jpg",
+            "size": 19.56404685974121,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Stevie%20Ray%20Vaughan%20%26%20Double%20Trouble%20-%20Leave%20My%20Girl%20Alone%20(Live%20From%20Austin%2C%20TX)-vdxF48KfYNA.mp4?raw=true"
+        },
+        "Stevie Ray Vaughan & Double Trouble - The House Is Rockin'--G84P5K-W1c.mp4": {
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "size": 11.999605178833008,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Stevie%20Ray%20Vaughan%20%26%20Double%20Trouble%20-%20The%20House%20Is%20Rockin'--G84P5K-W1c.mp4?raw=true"
+        },
+        "Stevie Ray Vaughan - Ain't Gone 'N' Give Up On Love - 9_21_1985 - Capitol Theatre (Official)-820u5aQ-HRg.mp4": {
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "size": 29.600418090820312,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Stevie%20Ray%20Vaughan%20-%20Ain't%20Gone%20'N'%20Give%20Up%20On%20Love%20-%209_21_1985%20-%20Capitol%20Theatre%20(Official)-820u5aQ-HRg.mp4?raw=true"
+        },
+        "Stevie Ray Vaughan - Empty Arms-8s-KJsBmO60.mp4": {
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "size": 5.87835693359375,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Stevie%20Ray%20Vaughan%20-%20Empty%20Arms-8s-KJsBmO60.mp4?raw=true"
+        },
+        "Stevie Ray Vaughan - Hug You, Squeeze You (from Live at the El Mocambo)-SR9GOQ4GXvk.mp4": {
+            "image": "https://i.ytimg.com/vi/SR9GOQ4GXvk/hqdefault.jpg",
+            "size": 14.00336742401123,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Stevie%20Ray%20Vaughan%20-%20Hug%20You%2C%20Squeeze%20You%20(from%20Live%20at%20the%20El%20Mocambo)-SR9GOQ4GXvk.mp4?raw=true"
+        },
+        "Stevie Ray Vaughan - Lenny - Unplugged And Jamming (Bootleg) - BEST Version-7RgiI2Re4eA.mp4": {
+            "image": "https://i.ytimg.com/vi/7RgiI2Re4eA/hqdefault.jpg",
+            "size": 6.494481086730957,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Stevie%20Ray%20Vaughan%20-%20Lenny%20-%20Unplugged%20And%20Jamming%20(Bootleg)%20-%20BEST%20Version-7RgiI2Re4eA.mp4?raw=true"
+        },
+        "Stevie Ray Vaughan - Life Without You - 9_21_1985 - Capitol Theatre, Passaic, NJ-DQ4REYdCkTw.mp4": {
+            "image": "https://i.ytimg.com/vi/DQ4REYdCkTw/hqdefault.jpg",
+            "size": 46.534780502319336,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Stevie%20Ray%20Vaughan%20-%20Life%20Without%20You%20-%209_21_1985%20-%20Capitol%20Theatre%2C%20Passaic%2C%20NJ-DQ4REYdCkTw.mp4?raw=true"
+        },
+        "Stevie Ray Vaughan - Look at Little Sister-3woPVQExDsQ.mp4": {
+            "image": "https://i.ytimg.com/vi/3woPVQExDsQ/hqdefault.jpg",
+            "size": 15.220812797546387,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Stevie%20Ray%20Vaughan%20-%20Look%20at%20Little%20Sister-3woPVQExDsQ.mp4?raw=true"
+        },
+        "Stevie Ray Vaughan - Testify (from Live at the El Mocambo)-Wtij9_fLhKA.mp4": {
+            "image": "https://i.ytimg.com/vi/Wtij9_fLhKA/hqdefault.jpg",
+            "size": 13.438133239746094,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Stevie%20Ray%20Vaughan%20-%20Testify%20(from%20Live%20at%20the%20El%20Mocambo)-Wtij9_fLhKA.mp4?raw=true"
+        },
+        "Stevie Ray Vaughan - Texas Flood (from Live at the El Mocambo)-KC5H9P4F5Uk.mp4": {
+            "image": "https://i.ytimg.com/vi/KC5H9P4F5Uk/hqdefault.jpg",
+            "size": 37.33932971954346,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Stevie%20Ray%20Vaughan%20-%20Texas%20Flood%20(from%20Live%20at%20the%20El%20Mocambo)-KC5H9P4F5Uk.mp4?raw=true"
+        },
+        "Stevie Ray Vaughan - Wall of Denial-5kaNqLrAl8Q.mp4": {
+            "image": "https://i.ytimg.com/vi/5kaNqLrAl8Q/hqdefault.jpg",
+            "size": 10.221230506896973,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Stevie%20Ray%20Vaughan%20-%20Wall%20of%20Denial-5kaNqLrAl8Q.mp4?raw=true"
+        },
+        "Stevie Ray Vaughan - Willie The Wimp-yLZI2z19vbQ.mp4": {
+            "image": "https://i.ytimg.com/vi/yLZI2z19vbQ/hqdefault.jpg",
+            "size": 19.52552604675293,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Stevie%20Ray%20Vaughan%20-%20Willie%20The%20Wimp-yLZI2z19vbQ.mp4?raw=true"
+        },
+        "Stevie Ray Vaughan Collins Shuffle Live In Montreux 1080P-C2_bK_SZ4Lo.mp4": {
+            "image": "https://i.ytimg.com/vi/C2_bK_SZ4Lo/hqdefault.jpg",
+            "size": 20.330636978149414,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Stevie%20Ray%20Vaughan%20Collins%20Shuffle%20Live%20In%20Montreux%201080P-C2_bK_SZ4Lo.mp4?raw=true"
+        },
+        "Stevie Ray Vaughan ~ Lookin' Out the Window-r2MjeXBr5fg.mp4": {
+            "image": "https://i.ytimg.com/vi/r2MjeXBr5fg/hqdefault.jpg",
+            "size": 14.860954284667969,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Stevie%20Ray%20Vaughan%20%7E%20Lookin'%20Out%20the%20Window-r2MjeXBr5fg.mp4?raw=true"
+        },
+        "Stevie Wonder and Stevie Ray Vaughan - Superstition (1989)-tBEkolNNfJc.mp4": {
+            "image": "https://i.ytimg.com/vi/tBEkolNNfJc/hqdefault.jpg",
+            "size": 12.578912734985352,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Stevie%20Wonder%20and%20Stevie%20Ray%20Vaughan%20-%20Superstition%20(1989)-tBEkolNNfJc.mp4?raw=true"
+        },
+        "Stevie's Blues [Guide Track for International Blues Jam] l Tommy Emmanuel-nnZgFMIFqkw.mp4": {
+            "image": "https://i.ytimg.com/vi/nnZgFMIFqkw/hqdefault.jpg",
+            "size": 15.213584899902344,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Stevie's%20Blues%20%5BGuide%20Track%20for%20International%20Blues%20Jam%5D%20l%20Tommy%20Emmanuel-nnZgFMIFqkw.mp4?raw=true"
+        },
+        "Stray Cats - Rebels Rule-p-Hg6dc73RY.mp4": {
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "size": 11.939894676208496,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Stray%20Cats%20-%20Rebels%20Rule-p-Hg6dc73RY.mp4?raw=true"
+        },
+        "Suicide & Redemption-wr_pNRdUZpA.mp4": {
+            "image": "https://i.ytimg.com/vi/wr_pNRdUZpA/hqdefault.jpg",
+            "size": 24.955209732055664,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Suicide%20%26%20Redemption-wr_pNRdUZpA.mp4?raw=true"
+        },
+        "Super Rail Band (Mali) -Tiramakan (1974)-74DNf12E80g.mp4": {
+            "image": "https://i.ytimg.com/vi/74DNf12E80g/hqdefault.jpg",
+            "size": 15.197037696838379,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Super%20Rail%20Band%20(Mali)%20-Tiramakan%20(1974)-74DNf12E80g.mp4?raw=true"
+        },
+        "Surf Wax America-hfzkJZSzZxY.mp4": {
+            "image": "https://i.ytimg.com/vi/hfzkJZSzZxY/hqdefault.jpg",
+            "size": 4.826037406921387,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Surf%20Wax%20America-hfzkJZSzZxY.mp4?raw=true"
+        },
+        "Surfari's Stomp-Q6d4oDCsC3o.mp4": {
+            "image": "https://i.ytimg.com/vi/Q6d4oDCsC3o/hqdefault.jpg",
+            "size": 2.222256660461426,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Surfari's%20Stomp-Q6d4oDCsC3o.mp4?raw=true"
+        },
+        "Sweet - Fox On The Run (Official Video)-VP2umy6TdEU.mp4": {
+            "image": "https://i.ytimg.com/vi/VP2umy6TdEU/hqdefault.jpg",
+            "size": 14.189855575561523,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Sweet%20-%20Fox%20On%20The%20Run%20(Official%20Video)-VP2umy6TdEU.mp4?raw=true"
+        },
+        "Symposium of Sickness-eGb_xr8K3aY.mp4": {
+            "image": "https://i.ytimg.com/vi/eGb_xr8K3aY/hqdefault.jpg",
+            "size": 10.321394920349121,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/Symposium%20of%20Sickness-eGb_xr8K3aY.mp4?raw=true"
+        },
+        "System Of A Down - B.Y.O.B. (Official Video)-zUzd9KyIDrM.mp4": {
+            "image": "https://i.ytimg.com/vi/zUzd9KyIDrM/hqdefault.jpg",
+            "size": 22.81673812866211,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/System%20Of%20A%20Down%20-%20B.Y.O.B.%20(Official%20Video)-zUzd9KyIDrM.mp4?raw=true"
+        },
+        "System Of A Down - Cigaro (Official Audio)-L4M98z22pgI.mp4": {
+            "image": "https://i.ytimg.com/vi/L4M98z22pgI/hqdefault.jpg",
+            "size": 2.3161277770996094,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/System%20Of%20A%20Down%20-%20Cigaro%20(Official%20Audio)-L4M98z22pgI.mp4?raw=true"
+        },
+        "System Of A Down - I-E-A-I-A-I-O (Official Audio)-eudOwe3Rz-0.mp4": {
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "size": 2.892550468444824,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/System%20Of%20A%20Down%20-%20I-E-A-I-A-I-O%20(Official%20Audio)-eudOwe3Rz-0.mp4?raw=true"
+        },
+        "System Of A Down - Question! (Official Video)-ENBv2i88g6Y.mp4": {
+            "image": "https://i.ytimg.com/vi/ENBv2i88g6Y/hqdefault.jpg",
+            "size": 16.908788681030273,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/System%20Of%20A%20Down%20-%20Question!%20(Official%20Video)-ENBv2i88g6Y.mp4?raw=true"
+        },
+        "System Of A Down - Violent Pornography (Official Audio)-WWXcpWliHSY.mp4": {
+            "image": "https://i.ytimg.com/vi/WWXcpWliHSY/hqdefault.jpg",
+            "size": 3.6956663131713867,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/System%20Of%20A%20Down%20-%20Violent%20Pornography%20(Official%20Audio)-WWXcpWliHSY.mp4?raw=true"
+        },
+        "suicide mission-total chaos.wmv-Y3C6q4dcV_A.mp4": {
+            "image": "https://i.ytimg.com/vi/Y3C6q4dcV_A/hqdefault.jpg",
+            "size": 6.004222869873047,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/suicide%20mission-total%20chaos.wmv-Y3C6q4dcV_A.mp4?raw=true"
+        },
+        "\u00bfSabes \u00a1Phil Lynott Muri\u00f3!-d522AsA68hQ.mp4": {
+            "image": "https://i.ytimg.com/vi/d522AsA68hQ/hqdefault.jpg",
+            "size": 14.215502738952637,
+            "url": "https://github.com/circuitalmynds/music_s/blob/main/videos/%C2%BFSabes%20%C2%A1Phil%20Lynott%20Muri%C3%B3!-d522AsA68hQ.mp4?raw=true"
+        }
     }
 }
