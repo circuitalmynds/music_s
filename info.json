@@ -1,6 +1,7 @@
 {
     "available_space": true,
-    "files": [
+    "total_size": 875.8887,
+    "videos": [
         "Skeletons Of Society-l8_j7y1U5Qo.mp4",
         "Spotted Pinto Bean-lAsDNNn971w.mp4",
         "Susana De La Manana-D95XfMHGCt8.mp4",
@@ -107,7 +108,5 @@
         "Sons of Belial-RQwCUoTdcx0.mp4",
         "Stone Temple Pilots - Interstate Love Song (Official HD Music Video)-yjJL9DGU7Gg.mp4",
         "Switchfoot - Oh! Gravity. (Video)-9o4CA36CdJA.mp4"
-    ],
-    "id": "s",
-    "total_size": 835.3128642578124
+    ]
 }
