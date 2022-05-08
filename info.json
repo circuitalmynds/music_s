@@ -112,6 +112,11 @@
             "size": 16.868153344
         },
         {
+            "name": "João Gilberto - 12 - Aos Pés da Cruz-e5O7UPmOL7s.mp4",
+            "path": "music_s/videos/João Gilberto - 12 - Aos Pés da Cruz-e5O7UPmOL7s.mp4",
+            "size": 2.2591385600000002
+        },
+        {
             "name": "Ska-P - Como me pongo-zJAiZWCgpN8.mp4",
             "path": "music_s/videos/Ska-P - Como me pongo-zJAiZWCgpN8.mp4",
             "size": 4.437901312
@@ -402,6 +407,11 @@
             "size": 5.584497664000001
         },
         {
+            "name": "Franz Liszt  - Fantasia on Hungarian Folk Melodies-dDnk1cCX1a8.mp4",
+            "path": "music_s/videos/Franz Liszt  - Fantasia on Hungarian Folk Melodies-dDnk1cCX1a8.mp4",
+            "size": 20.299792384
+        },
+        {
             "name": "SKA-P-El Gato Lopez.-y6ucaz3pGbE.mp4",
             "path": "music_s/videos/SKA-P-El Gato Lopez.-y6ucaz3pGbE.mp4",
             "size": 7.326603264
@@ -552,5 +562,5 @@
             "size": 15.213325312
         }
     ],
-    "total_size": 925.448471552
+    "total_size": 948.0074024959999
 }
